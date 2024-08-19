@@ -1,0 +1,23 @@
+{
+    "name": "RPi Pico IN219",
+    "version": "1.0.0",
+    "description": "Biblioteca para usar el INA219 con la Raspberry Pi Pico y su SDK en C.",
+    "keywords": "rp2040, Raspberry Pi Pico, baremetal, I2C",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/carlassaraf/rpipico-ina219.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Fabrizio Carlassara",
+        "email": "fabrizio.carlassara@gmail.com",
+        "url": ""
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "frameworks": ["baremetal"],
+    "platforms": ["WizIO-pico"]
+  }
